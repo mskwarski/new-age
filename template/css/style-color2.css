@@ -40,3 +40,31 @@
 .page-footer .footer-left p {
   font-family: "Bebas Neue", sans-serif;
   letter-spacing: 0.2em; }
+
+/* added class to mark one letter/letters randomly on entire page*/
+
+.green-letter {
+    color: #22A393;
+  }
+
+.red-letter {
+    color: #ED3B35;
+  }
+
+.kontakt-em {  
+  font-size: 0.75rem;
+}
+
+.legend h4 {
+  line-height: 0.3;  
+}
+
+.img--border {
+  padding: 40px;
+  border: 1px solid #22A393;
+}
+
+.img--border-red {
+  padding: 10px;
+  border: 1px solid #ED3B35;  
+}
