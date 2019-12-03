@@ -68,3 +68,14 @@
   padding: 10px;
   border: 1px solid #ED3B35;  
 }
+
+.small--monotype {
+  font-family: monospace;
+  text-transform: uppercase;  
+}
+
+@media (max-width: 768px) {
+  .navbar-mainmenu {
+    display: none;
+  }
+}

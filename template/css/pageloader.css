@@ -53,7 +53,7 @@ html file
 			width: 40px;
 			height: 40px;
 			content: "";
-			background: #1d1d1d;
+			background: #22a393; /* #1d1d1d !marcin */
 			border-radius: 100px;
 			border: 8px solid #fff;
 			border-top-color: rgba(255, 255, 255, 0.58);
