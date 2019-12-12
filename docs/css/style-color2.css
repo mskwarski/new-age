@@ -1,0 +1,81 @@
+.body-page {
+  background-color: #1D1D1D; }
+
+.body-item {
+  background-color: #1D1D1D; }
+
+.display-title {
+  font-family: "Bebas Neue", sans-serif;
+  letter-spacing: 0.2em; }
+
+.title-bg {
+  font-family: "Bebas Neue", sans-serif; }
+
+.display-3,
+.display-4 {
+  font-family: "Bebas Neue", sans-serif;
+  letter-spacing: 0.2em; }
+
+.page-header-alpha .nav-item {
+  font-family: "Bebas Neue", sans-serif;
+  letter-spacing: 0.2em; }
+
+.btn {
+  font-family: "Bebas Neue", sans-serif;
+  letter-spacing: 0.2em;
+  height: 46px;
+  padding-top: 0;
+  padding-bottom: 0;
+  border-radius: 2px; }
+
+.btn-outline-white {
+  line-height: 44px; }
+
+.btn-outline-primary {
+  line-height: 44px; }
+
+.btn-transp-arrow .text {
+  padding-top: 2px; }
+
+.page-footer .footer-left p {
+  font-family: "Bebas Neue", sans-serif;
+  letter-spacing: 0.2em; }
+
+/* added class to mark one letter/letters randomly on entire page*/
+
+.green-letter {
+    color: #22A393;
+  }
+
+.red-letter {
+    color: #ED3B35;
+  }
+
+.kontakt-em {  
+  font-size: 0.75rem;
+}
+
+.legend h4 {
+  line-height: 0.3;  
+}
+
+.img--border {
+  padding: 40px;
+  border: 1px solid #22A393;
+}
+
+.img--border-red {
+  padding: 10px;
+  border: 1px solid #ED3B35;  
+}
+
+.small--monotype {
+  font-family: monospace;
+  text-transform: uppercase;  
+}
+
+@media (max-width: 768px) {
+  .navbar-mainmenu {
+    display: none;
+  }
+}
